@@ -67,13 +67,10 @@ print('hello world')
 ![esto va a ser una imagen](https://media.wsimag.com/attachments/74c01604d9befdb3397693f74415cfb5acb99eed/store/fill/690/388/a3d3f6140814b8845ca694685c5e63bf94cd283931ecf08af835cbac1da3/Galaxia-de-Andromeda.jpg "El universo en una imagen")
 
 <!-- GITHUB MARKDOWN -->
-*[x] task 1
-
-*[ ] task 2
-
-*[ ] task 3
-
-*[x] task 4
+* [x] task 1
+* [ ] task 2
+* [ ] task 3
+* [x] task 4
 
 <!-- mensiones y emojis
 
